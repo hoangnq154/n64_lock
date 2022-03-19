@@ -1,0 +1,12 @@
+{
+	"packageUrl" : "https://raw.githubusercontent.com/hoangnq154/n64_lock/master/nes.snes.gba.n64.funny",
+	"remoteManifestUrl" : "https://raw.githubusercontent.com/hoangnq154/n64_lock/master/nes.snes.gba.n64.funny/project.manifest",
+	"remoteVersionUrl" : "https://raw.githubusercontent.com/hoangnq154/n64_lock/master/nes.snes.gba.n64.funny/version.manifest",
+	"remoteDownloadUrl" : "https://raw.githubusercontent.com/hoangnq154/n64_lock/master/nes.snes.gba.n64.funny/download.manifest",
+	"remoteDownloadPrefix" : "https://raw.githubusercontent.com/hoangnq154/n64_lock/master/nes.snes.gba.n64.funny/",
+	"version" : "2",
+	"engineVersion" : "3.6.1",
+	"assets" : {},
+	"group" : {},
+    "searchPaths" : []
+}
